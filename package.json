@@ -1,0 +1,23 @@
+{
+  "name": "collab-doodle",
+  "version": "1.0.0",
+  "description": "A collaborative doodling application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nraval1729/CollabDoodle.git"
+  },
+  "author": "nraval1729",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nraval1729/CollabDoodle/issues"
+  },
+  "homepage": "https://github.com/nraval1729/CollabDoodle#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
